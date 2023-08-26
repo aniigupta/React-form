@@ -1,10 +1,11 @@
 
-![1](https://github.com/aniigupta/React-form/assets/114833203/c75e9814-8e98-4a33-a87d-8cd69b74d6cd)
+![1](https://github.com/aniigupta/React-form/assets/114833203/bd44da20-d291-432f-aeec-bbba5f470b85)
 Empty Form 
-![2](https://github.com/aniigupta/React-form/assets/114833203/b19fcc33-7750-415a-a18b-dcc778907296)
+![2](https://github.com/aniigupta/React-form/assets/114833203/5ad6c8fc-75c4-497f-966b-3cb20bc6e73e)
 Filling Form
-![3](https://github.com/aniigupta/React-form/assets/114833203/44cc6041-471f-4af1-a6fb-6d4d77790b77)
+![3](https://github.com/aniigupta/React-form/assets/114833203/6f3d10b0-9911-45c9-98cb-499bd367f5cd)
 Form Submitted successfully
+
 
 
 
