@@ -1,3 +1,13 @@
+
+![1](https://github.com/aniigupta/React-form/assets/114833203/c75e9814-8e98-4a33-a87d-8cd69b74d6cd)
+Empty Form 
+![2](https://github.com/aniigupta/React-form/assets/114833203/b19fcc33-7750-415a-a18b-dcc778907296)
+Filling Form
+![3](https://github.com/aniigupta/React-form/assets/114833203/44cc6041-471f-4af1-a6fb-6d4d77790b77)
+Form Submitted successfully
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
